@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 6306,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2021-03-09T01:41:13-01:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 6591,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2016-05-14T09:16:41-02:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 3066,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2019-06-16T10:24:35-02:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 2537,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2020-08-16T10:05:26-02:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 1555,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2019-06-05T04:27:39-02:00"
+  }
+]

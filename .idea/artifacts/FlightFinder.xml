@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="FlightFinder">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlightFinder</output-path>
+    <root id="root">
+      <element id="archive" name="FlightFind.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="archive" name="TaskFlightFinder" />
+      </element>
+      <element id="module-output" name="JSON" />
+    </root>
+  </artifact>
+</component>
